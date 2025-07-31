@@ -18,28 +18,28 @@ msgstr ""
 #: /Game/Bogatyr/UI/Widgets/UI_DeathScreen.UI_DeathScreen_C:WidgetTree.CommonTextBlock_117.Text
 msgctxt ",01C988174BD42F4F1BBA4782EC45EE62"
 msgid "You died"
-msgstr "You died"
+msgstr "Ты умер"
 
 #. Key:	042AE51D4B82B877062BCFAACBA17B04
 #. SourceLocation:	/Game/Bogatyr/Placeables/Pickupables/BP_PickupableActor_Item.Default__BP_PickupableActor_Item_C.ActionText
 #: /Game/Bogatyr/Placeables/Pickupables/BP_PickupableActor_Item.Default__BP_PickupableActor_Item_C.ActionText
 msgctxt ",042AE51D4B82B877062BCFAACBA17B04"
 msgid "Pickup"
-msgstr "Pickup"
+msgstr "Подобрать"
 
 #. Key:	0454AAF44B1B0DF3F8595597BCC4E72F
 #. SourceLocation:	/Game/Bogatyr/UI/Containers/UI_StatusScreen.UI_StatusScreen_C:WidgetTree.Level.Name
 #: /Game/Bogatyr/UI/Containers/UI_StatusScreen.UI_StatusScreen_C:WidgetTree.Level.Name
 msgctxt ",0454AAF44B1B0DF3F8595597BCC4E72F"
 msgid "Level"
-msgstr "Level"
+msgstr "Уровень"
 
 #. Key:	04FA9A3141993761023E5EA0453B8D52
 #. SourceLocation:	/Game/Bogatyr/Data/DataTables/DT_ItemsList.DT_ItemsList.WP_M_5000.Description.Name
 #: /Game/Bogatyr/Data/DataTables/DT_ItemsList.DT_ItemsList.WP_M_5000.Description.Name
 msgctxt ",04FA9A3141993761023E5EA0453B8D52"
 msgid "Warpick - Invader warrior weapon"
-msgstr "Warpick - Invader warrior weapon"
+msgstr "Варпик — оружие воина-захватчика"
 
 #. Key:	090646E74D29E5995922D3859F174D64
 #. SourceLocation:	/Game/Bogatyr/Data/DataTables/DT_ItemsList.DT_ItemsList.IT_C_0001.Description.Description
@@ -67,7 +67,7 @@ msgstr "v0.1.0.42"
 #: /Game/Bogatyr/UI/Containers/UI_StatusScreen.UI_StatusScreen_C:WidgetTree.Intelligence.Name
 msgctxt ",0C168D2E46A578836A828694D9FF6BD4"
 msgid "Intelligence"
-msgstr "Intelligence"
+msgstr "Интеллект"
 
 #. Key:	0C6C4B7A43DF52CF88C394A2BC24B53F
 #. SourceLocation:	/Game/Bogatyr/UI/Data/UI_InputActions_DT.UI_InputActions_DT.Cancel.DisplayName
