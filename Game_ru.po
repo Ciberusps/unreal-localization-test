@@ -1,0 +1,1016 @@
+﻿# Game English (United States) translation.
+# Copyright Epic Games, Inc. All Rights Reserved.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Game\n"
+"POT-Creation-Date: 2024-01-30 06:41\n"
+"PO-Revision-Date: 2024-01-30 06:41\n"
+"Language-Team: \n"
+"Language: en-US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Key:	01C988174BD42F4F1BBA4782EC45EE62
+#. SourceLocation:	/Game/Bogatyr/UI/Widgets/UI_DeathScreen.UI_DeathScreen_C:WidgetTree.CommonTextBlock_117.Text
+#: /Game/Bogatyr/UI/Widgets/UI_DeathScreen.UI_DeathScreen_C:WidgetTree.CommonTextBlock_117.Text
+msgctxt ",01C988174BD42F4F1BBA4782EC45EE62"
+msgid "You died"
+msgstr "Ты умер"
+
+#. Key:	042AE51D4B82B877062BCFAACBA17B04
+#. SourceLocation:	/Game/Bogatyr/Placeables/Pickupables/BP_PickupableActor_Item.Default__BP_PickupableActor_Item_C.ActionText
+#: /Game/Bogatyr/Placeables/Pickupables/BP_PickupableActor_Item.Default__BP_PickupableActor_Item_C.ActionText
+msgctxt ",042AE51D4B82B877062BCFAACBA17B04"
+msgid "Pickup"
+msgstr "Подобрать"
+
+#. Key:	0454AAF44B1B0DF3F8595597BCC4E72F
+#. SourceLocation:	/Game/Bogatyr/UI/Containers/UI_StatusScreen.UI_StatusScreen_C:WidgetTree.Level.Name
+#: /Game/Bogatyr/UI/Containers/UI_StatusScreen.UI_StatusScreen_C:WidgetTree.Level.Name
+msgctxt ",0454AAF44B1B0DF3F8595597BCC4E72F"
+msgid "Level"
+msgstr "Уровень"
+
+#. Key:	04FA9A3141993761023E5EA0453B8D52
+#. SourceLocation:	/Game/Bogatyr/Data/DataTables/DT_ItemsList.DT_ItemsList.WP_M_5000.Description.Name
+#: /Game/Bogatyr/Data/DataTables/DT_ItemsList.DT_ItemsList.WP_M_5000.Description.Name
+msgctxt ",04FA9A3141993761023E5EA0453B8D52"
+msgid "Warpick - Invader warrior weapon"
+msgstr "Варпик — оружие воина-захватчика"
+
+#. Key:	090646E74D29E5995922D3859F174D64
+#. SourceLocation:	/Game/Bogatyr/Data/DataTables/DT_ItemsList.DT_ItemsList.IT_C_0001.Description.Description
+#: /Game/Bogatyr/Data/DataTables/DT_ItemsList.DT_ItemsList.IT_C_0001.Description.Description
+msgctxt ",090646E74D29E5995922D3859F174D64"
+msgid "Молодильное яблоко\r\n\r\nЯблоко с молодого дервева\r\n\r\nВосстанавливает хп"
+msgstr "Молодильное яблоко\r\n\r\nЯблоко с молодой дервева\r\n\r\nВосстанавливает хп"
+
+#. Key:	0BBBC6C540886DF608655D878AEF16B0
+#. SourceLocation:	/Game/Bogatyr/UI/Widgets/UI_CharacterStat.UI_CharacterStat_C:WidgetTree.ValuesSplitterText.Text
+#: /Game/Bogatyr/UI/Widgets/UI_CharacterStat.UI_CharacterStat_C:WidgetTree.ValuesSplitterText.Text
+msgctxt ",0BBBC6C540886DF608655D878AEF16B0"
+msgid "  /"
+msgstr "/"
+
+#. Key:	0BD81D4641DDC8D56298F6961E27FD5B
+#. SourceLocation:	/Game/Bogatyr/UI/Widgets/UI_PlayerHUD.UI_PlayerHUD_C:WidgetTree.BuildVersionText.Text
+#: /Game/Bogatyr/UI/Widgets/UI_PlayerHUD.UI_PlayerHUD_C:WidgetTree.BuildVersionText.Text
+msgctxt ",0BD81D4641DDC8D56298F6961E27FD5B"
+msgid "v0.1.0.42"
+msgstr "v0.1.0.42"
+
+#. Key:	0C168D2E46A578836A828694D9FF6BD4
+#. SourceLocation:	/Game/Bogatyr/UI/Containers/UI_StatusScreen.UI_StatusScreen_C:WidgetTree.Intelligence.Name
+#: /Game/Bogatyr/UI/Containers/UI_StatusScreen.UI_StatusScreen_C:WidgetTree.Intelligence.Name
+msgctxt ",0C168D2E46A578836A828694D9FF6BD4"
+msgid "Intelligence"
+msgstr "Интеллект"
+
+#. Key:	0C6C4B7A43DF52CF88C394A2BC24B53F
+#. SourceLocation:	/Game/Bogatyr/UI/Data/UI_InputActions_DT.UI_InputActions_DT.Cancel.DisplayName
+#: /Game/Bogatyr/UI/Data/UI_InputActions_DT.UI_InputActions_DT.Cancel.DisplayName
+msgctxt ",0C6C4B7A43DF52CF88C394A2BC24B53F"
+msgid "Cancel"
+msgstr "Отмена"
+
+#. Key:	0DFE00B0464F9756EC37638CC8BA4D91
+#. SourceLocation:	/Game/Bogatyr/UI/Widgets/UI_ControlsHelp.UI_ControlsHelp_C:WidgetTree.UI_ActionButton_9.TextForOverride
+#: /Game/Bogatyr/UI/Widgets/UI_ControlsHelp.UI_ControlsHelp_C:WidgetTree.UI_ActionButton_9.TextForOverride
+msgctxt ",0DFE00B0464F9756EC37638CC8BA4D91"
+msgid "Эстус - R"
+msgstr "Эстус - R"
+
+#. Key:	0E4FD75E425B43D73F27C7B9C1C59C79
+#. SourceLocation:	/Game/Bogatyr/UI/Data/UI_InputActions_DT.UI_InputActions_DT.TabRight.DisplayName
+#: /Game/Bogatyr/UI/Data/UI_InputActions_DT.UI_InputActions_DT.TabRight.DisplayName
+msgctxt ",0E4FD75E425B43D73F27C7B9C1C59C79"
+msgid "TabRight"
+msgstr "TabRight"
+
+#. Key:	0EA26648437C452A599EC2ACDAA8194B
+#. SourceLocation:	/Game/Bogatyr/UI/Containers/UI_StatusScreen.UI_StatusScreen_C:WidgetTree.CharacterClass.Name
+#: /Game/Bogatyr/UI/Containers/UI_StatusScreen.UI_StatusScreen_C:WidgetTree.CharacterClass.Name
+msgctxt ",0EA26648437C452A599EC2ACDAA8194B"
+msgid "Class"
+msgstr "Сорт"
+
+#. Key:	0EB1439843245E27C0EE8D8E8858F2D0
+#. SourceLocation:	/Game/Bogatyr/UI/Widgets/UI_StartScreen_Button.Default__UI_StartScreen_Button_C.Text
+#: /Game/Bogatyr/UI/Widgets/UI_StartScreen_Button.Default__UI_StartScreen_Button_C.Text
+msgctxt ",0EB1439843245E27C0EE8D8E8858F2D0"
+msgid "Button Text"
+msgstr "Текст кнопки"
+
+#. Key:	0F4EB76C42C7E64FC913218D6634E7DD
+#. SourceLocation:	/Game/Bogatyr/UI/Data/UI_InputActions_DT.UI_InputActions_DT.5.DisplayName
+#: /Game/Bogatyr/UI/Data/UI_InputActions_DT.UI_InputActions_DT.5.DisplayName
+msgctxt ",0F4EB76C42C7E64FC913218D6634E7DD"
+msgid "5"
+msgstr "5"
+
+#. Key:	10A5AD82443D035EE150F98DDE57D1C6
+#. SourceLocation:	/Game/Bogatyr/UI/Data/UI_InputActions_DT.UI_InputActions_DT.4.DisplayName
+#: /Game/Bogatyr/UI/Data/UI_InputActions_DT.UI_InputActions_DT.4.DisplayName
+msgctxt ",10A5AD82443D035EE150F98DDE57D1C6"
+msgid "4"
+msgstr "4"
+
+#. Key:	10EDAD1A46B40EBC3080E9B9D690DA58
+#. SourceLocation:	/Game/Bogatyr/Placeables/Pickupables/BP_PickupableActor_Rare.Default__BP_PickupableActor_Rare_C.ActionText
+#: /Game/Bogatyr/Placeables/Pickupables/BP_PickupableActor_Rare.Default__BP_PickupableActor_Rare_C.ActionText
+msgctxt ",10EDAD1A46B40EBC3080E9B9D690DA58"
+msgid "Pickup"
+msgstr "Подобрать"
+
+#. Key:	12F374DB42CA9BA9119F82BE830EADE2
+#. SourceLocation:	/Game/Bogatyr/UI/Widgets/BossDefeated/UI_BossDefeated.UI_BossDefeated_C:WidgetTree.BossNameText_2.Text
+#: /Game/Bogatyr/UI/Widgets/BossDefeated/UI_BossDefeated.UI_BossDefeated_C:WidgetTree.BossNameText_2.Text
+msgctxt ",12F374DB42CA9BA9119F82BE830EADE2"
+msgid "Болотник"
+msgstr "Болотник"
+
+#. Key:	1565CBFB46D9E3987D0BA2BB201DEE46
+#. SourceLocation:	/Game/Bogatyr/UI/Widgets/UI_ControlsHelp.UI_ControlsHelp_C:WidgetTree.UI_ActionButton_7.TextForOverride
+#: /Game/Bogatyr/UI/Widgets/UI_ControlsHelp.UI_ControlsHelp_C:WidgetTree.UI_ActionButton_7.TextForOverride
+msgctxt ",1565CBFB46D9E3987D0BA2BB201DEE46"
+msgid "Тяжелый Удар - Shift + ЛКМ"
+msgstr "Тяжелый Удар — Shift + ЛКМ"
+
+#. Key:	1625A1734E7E89BA2B85D2AC356867C3
+#. SourceLocation:	/Game/Bogatyr/UI/Containers/UI_StatusScreen.UI_StatusScreen_C:WidgetTree.HP.Name
+#: /Game/Bogatyr/UI/Containers/UI_StatusScreen.UI_StatusScreen_C:WidgetTree.HP.Name
+msgctxt ",1625A1734E7E89BA2B85D2AC356867C3"
+msgid "HP"
+msgstr "HP"
+
+#. Key:	192ABB984498EDAE78A022B293F7F37F
+#. SourceLocation:	/Game/Bogatyr/UI/Widgets/UI_ControlsHelp.UI_ControlsHelp_C:WidgetTree.ShowSettingsButtons.TextForOverride
+#: /Game/Bogatyr/UI/Widgets/UI_ControlsHelp.UI_ControlsHelp_C:WidgetTree.ShowSettingsButtons.TextForOverride
+msgctxt ",192ABB984498EDAE78A022B293F7F37F"
+msgid "Show graphics settings"
+msgstr "Показать настройки графики"
+
+#. Key:	1B097C924CCC5145DE95AF856A80142F
+#. SourceLocation:	/Game/Bogatyr/UI/Containers/UI_StatusScreen.UI_StatusScreen_C:WidgetTree.LeftHandWeapon1.Name
+#: /Game/Bogatyr/UI/Containers/UI_StatusScreen.UI_StatusScreen_C:WidgetTree.LeftHandWeapon1.Name
+msgctxt ",1B097C924CCC5145DE95AF856A80142F"
+msgid "Weapon 1"
+msgstr "Оружие 1"
+
+#. Key:	1CEBE1914E2E1D278086BD9203B23E8F
+#. SourceLocation:	/Game/Bogatyr/UI/Widgets/UI_DeathScreen.UI_DeathScreen_C:WidgetTree.TextBlock_54.Text
+#: /Game/Bogatyr/UI/Widgets/UI_DeathScreen.UI_DeathScreen_C:WidgetTree.TextBlock_54.Text
+msgctxt ",1CEBE1914E2E1D278086BD9203B23E8F"
+msgid "Restart"
+msgstr "Перезапуск"
+
+#. Key:	1DC6C341412D7316F38376BB0FFB8CF0
+#. SourceLocation:	/Game/Bogatyr/UI/Containers/UI_StatusScreen.UI_StatusScreen_C:WidgetTree.Magic.Name
+#: /Game/Bogatyr/UI/Containers/UI_StatusScreen.UI_StatusScreen_C:WidgetTree.Magic.Name
+msgctxt ",1DC6C341412D7316F38376BB0FFB8CF0"
+msgid "Magic"
+msgstr "Магия"
+
+#. Key:	22076B5F4C89BC9B5A1928988A8602C6
+#. SourceLocation:	/Game/Bogatyr/Maps/L_StartProjectMap.L_StartProjectMap:PersistentLevel.TextRenderActor_1.NewTextRenderComponent.Text
+#: /Game/Bogatyr/Maps/L_StartProjectMap.L_StartProjectMap:PersistentLevel.TextRenderActor_1.NewTextRenderComponent.Text
+msgctxt ",22076B5F4C89BC9B5A1928988A8602C6"
+msgid "Main map - \"/Bogatyr/Maps/L_Main/L_Main\"\r\n\r\nGameplay Gyms - \"/Bogatyr/Maps/Gyms\""
+msgstr "Основная карта - \/Богатырь/Карты/L_Main/L_Main\r\n\r\nИгровые залы - \/Богатырь/Карты/Спортзалы\"
+
+#. Key:	25A63B71428D6085DD065D95BD945C99
+#. SourceLocation:	/Game/Bogatyr/UI/Widgets/UI_ControlsHelp.UI_ControlsHelp_C:ExecuteUbergraph_UI_ControlsHelp [Script Bytecode]
+#: /Game/Bogatyr/UI/Widgets/UI_ControlsHelp.UI_ControlsHelp_C:ExecuteUbergraph_UI_ControlsHelp [Script Bytecode]
+msgctxt ",25A63B71428D6085DD065D95BD945C99"
+msgid "Скрыть управление"
+msgstr "Скрыть управление"
+
+#. Key:	289978064F5AA27E116545881CC4A3CD
+#. SourceLocation:	/Game/Bogatyr/VFX/Fire/Fire/Materials/M_Distort_01.M_Distort_01:MaterialExpressionVectorParameter_0.ChannelNames.R
+#: /Game/Bogatyr/VFX/Fire/Fire/Materials/M_Distort_01.M_Distort_01:MaterialExpressionVectorParameter_0.ChannelNames.R
+msgctxt ",289978064F5AA27E116545881CC4A3CD"
+msgid "U"
+msgstr "У"
+
+#. Key:	2967A6E4450EBA9F9F1797A82D6BA3BB
+#. SourceLocation:	/Game/Bogatyr/UI/Containers/UI_StatusScreen.UI_StatusScreen_C:WidgetTree.CommonTextBlock_2.Text
+#: /Game/Bogatyr/UI/Containers/UI_StatusScreen.UI_StatusScreen_C:WidgetTree.CommonTextBlock_2.Text
+msgctxt ",2967A6E4450EBA9F9F1797A82D6BA3BB"
+msgid "Right Hand"
+msgstr "Правая рука"
+
+#. Key:	29D64D034C23F7C68BFE72BF691D0AA9
+#. SourceLocation:	/Game/Bogatyr/UI/Data/UI_InputActions_DT.UI_InputActions_DT.O.DisplayName
+#: /Game/Bogatyr/UI/Data/UI_InputActions_DT.UI_InputActions_DT.O.DisplayName
+msgctxt ",29D64D034C23F7C68BFE72BF691D0AA9"
+msgid "O"
+msgstr "О"
+
+#. Key:	2AF2B67248C12DFF3010B99787F9E939
+#. SourceLocation:	/Game/Bogatyr/UI/Containers/UI_StatusScreen.UI_StatusScreen_C:WidgetTree.RightHandWeapon1.Name
+#: /Game/Bogatyr/UI/Containers/UI_StatusScreen.UI_StatusScreen_C:WidgetTree.RightHandWeapon1.Name
+msgctxt ",2AF2B67248C12DFF3010B99787F9E939"
+msgid "Weapon 1"
+msgstr "Оружие 1"
+
+#. Key:	2AFF117443149AF6700AD79238B83AF3
+#. SourceLocation:	/Game/Bogatyr/UI/Data/UI_InputActions_DT.UI_InputActions_DT.Confirm.DisplayName
+#: /Game/Bogatyr/UI/Data/UI_InputActions_DT.UI_InputActions_DT.Confirm.DisplayName
+msgctxt ",2AFF117443149AF6700AD79238B83AF3"
+msgid "Confirm"
+msgstr "Подтверждать"
+
+#. Key:	2B95EA684B5D4B29506D0E9EC9E44A1D
+#. SourceLocation:	/Game/Bogatyr/Data/Enums/E_AI_Status.E_AI_Status.DisplayNameMap(3 - Value).DisplayNameMap
+#: /Game/Bogatyr/Data/Enums/E_AI_Status.E_AI_Status.DisplayNameMap(3 - Value).DisplayNameMap
+msgctxt ",2B95EA684B5D4B29506D0E9EC9E44A1D"
+msgid "Dead"
+msgstr "Мертвый"
+
+#. Key:	2BA721A748631AE74965C3B13E6E7C27
+#. SourceLocation:	/Game/Bogatyr/UI/Widgets/ItemSlot/UI_ItemSlot.UI_ItemSlot_C:WidgetTree.CountText.Text
+#: /Game/Bogatyr/UI/Widgets/ItemSlot/UI_ItemSlot.UI_ItemSlot_C:WidgetTree.CountText.Text
+msgctxt ",2BA721A748631AE74965C3B13E6E7C27"
+msgid "99"
+msgstr "99"
+
+#. Key:	2C873169407495683A00FAB24337543C
+#. SourceLocation:	/Game/Bogatyr/UI/Widgets/UI_ControlsHelp.UI_ControlsHelp_C:WidgetTree.UI_ActionButton_12.TextForOverride
+#: /Game/Bogatyr/UI/Widgets/UI_ControlsHelp.UI_ControlsHelp_C:WidgetTree.UI_ActionButton_12.TextForOverride
+msgctxt ",2C873169407495683A00FAB24337543C"
+msgid "Настройки графики: Cinematic"
+msgstr "Настройки графика: Кинематографический"
+
+#. Key:	2D48687D44ECA8A0B43FA298BD81B991
+#. SourceLocation:	/Game/Bogatyr/Materials/MF_ColorCorrect.MF_ColorCorrect:MaterialExpressionVectorParameter_2.ChannelNames.B
+#: /Game/Bogatyr/Materials/MF_ColorCorrect.MF_ColorCorrect:MaterialExpressionVectorParameter_2.ChannelNames.B
+msgctxt ",2D48687D44ECA8A0B43FA298BD81B991"
+msgid "Contrast"
+msgstr "Контраст"
+
+#. Key:	2F98B357453D20ECFA0A7EAC3DB2CDA8
+#. SourceLocation:	/Game/Bogatyr/UI/Data/UI_InputActions_DT.UI_InputActions_DT.LeftArrow.DisplayName
+#: /Game/Bogatyr/UI/Data/UI_InputActions_DT.UI_InputActions_DT.LeftArrow.DisplayName
+msgctxt ",2F98B357453D20ECFA0A7EAC3DB2CDA8"
+msgid "LeftArrow"
+msgstr "Стрелка влево"
+
+#. Key:	305944E140E0CA5AFC4A638C2741919B
+#. SourceLocation:	/Game/Bogatyr/UI/Widgets/UI_ItemsListWidget.UI_ItemsListWidget_C:WidgetTree.Title.Text
+#: /Game/Bogatyr/UI/Widgets/UI_ItemsListWidget.UI_ItemsListWidget_C:WidgetTree.Title.Text
+msgctxt ",305944E140E0CA5AFC4A638C2741919B"
+msgid "Claymore sword"
+msgstr "Меч Клеймор"
+
+#. Key:	338A4A21479ECD88A419EDB1CD1937CF
+#. SourceLocation:	/Game/Bogatyr/UI/Widgets/BossDefeated/UI_BossDefeated.UI_BossDefeated_C:WidgetTree.BossNameText_3.Text
+#: /Game/Bogatyr/UI/Widgets/BossDefeated/UI_BossDefeated.UI_BossDefeated_C:WidgetTree.BossNameText_3.Text
+msgctxt ",338A4A21479ECD88A419EDB1CD1937CF"
+msgid "повержен"
+msgstr "повержен"
+
+#. Key:	3452323143ED70147AC2C2ADF885065D
+#. SourceLocation:	/Game/Bogatyr/UI/Data/UI_InputActions_DT.UI_InputActions_DT.Help.DisplayName
+#: /Game/Bogatyr/UI/Data/UI_InputActions_DT.UI_InputActions_DT.Help.DisplayName
+msgctxt ",3452323143ED70147AC2C2ADF885065D"
+msgid "Help"
+msgstr "Помощь"
+
+#. Key:	366589C248CA7D42A281C1B6601F4BBE
+#. SourceLocation:	/Game/Bogatyr/UI/Widgets/UI_LocalizationTest.UI_LocalizationTest_C:WidgetTree.CommonTextBlock_1.Text
+#: /Game/Bogatyr/UI/Widgets/UI_LocalizationTest.UI_LocalizationTest_C:WidgetTree.CommonTextBlock_1.Text
+msgctxt ",366589C248CA7D42A281C1B6601F4BBE"
+msgid "EN"
+msgstr "АН"
+
+#. Key:	3682F1AC405A0726ECD8468D50A6E6C1
+#. SourceLocation:	/Game/Bogatyr/UI/Containers/UI_StartScreen.UI_StartScreen_C:WidgetTree.ExitButton.Text
+#: /Game/Bogatyr/UI/Containers/UI_StartScreen.UI_StartScreen_C:WidgetTree.ExitButton.Text
+msgctxt ",3682F1AC405A0726ECD8468D50A6E6C1"
+msgid "Exit"
+msgstr "Выход"
+
+#. Key:	376CB5BB4E0003B15ED5EBAD12CB488F
+#. SourceLocation:	/Game/Bogatyr/UI/Containers/UI_StatusScreen.UI_StatusScreen_C:WidgetTree.LightningResist.Name
+#: /Game/Bogatyr/UI/Containers/UI_StatusScreen.UI_StatusScreen_C:WidgetTree.LightningResist.Name
+msgctxt ",376CB5BB4E0003B15ED5EBAD12CB488F"
+msgid "Lightning"
+msgstr "Молния"
+
+#. Key:	38ED10534B01957C10DE2AAC302FDFCD
+#. SourceLocation:	/Game/Bogatyr/UI/Widgets/UI_ControlsHelp.UI_ControlsHelp_C:ExecuteUbergraph_UI_ControlsHelp [Script Bytecode]
+#: /Game/Bogatyr/UI/Widgets/UI_ControlsHelp.UI_ControlsHelp_C:ExecuteUbergraph_UI_ControlsHelp [Script Bytecode]
+msgctxt ",38ED10534B01957C10DE2AAC302FDFCD"
+msgid "Показать настройки"
+msgstr "Показать настройки"
+
+#. Key:	3A283BDA44525BEFE02078AF39A06158
+#. SourceLocation:	/Game/Bogatyr/UI/Containers/UI_StatusScreen.UI_StatusScreen_C:WidgetTree.DarkResist.Name
+#: /Game/Bogatyr/UI/Containers/UI_StatusScreen.UI_StatusScreen_C:WidgetTree.DarkResist.Name
+msgctxt ",3A283BDA44525BEFE02078AF39A06158"
+msgid "Dark"
+msgstr "Темный"
+
+#. Key:	3C13268444BDA1B46A62E8A7C5C94EE1
+#. SourceLocation:	/Game/Bogatyr/Data/Enums/E_AI_Branch.E_AI_Branch.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/Bogatyr/Data/Enums/E_AI_Branch.E_AI_Branch.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",3C13268444BDA1B46A62E8A7C5C94EE1"
+msgid "Green"
+msgstr "Зеленый"
+
+#. Key:	3C9CBA9242A1557558AAED9F567DE152
+#. SourceLocation:	/Game/Bogatyr/Data/Enums/E_AI_Status.E_AI_Status.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/Bogatyr/Data/Enums/E_AI_Status.E_AI_Status.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",3C9CBA9242A1557558AAED9F567DE152"
+msgid "Agro"
+msgstr "Агро"
+
+#. Key:	3D274D054421244A14B4908E726BDAF3
+#. SourceLocation:	/Game/Bogatyr/UI/Widgets/UI_ControlsHelp.UI_ControlsHelp_C:WidgetTree.UI_ActionButton_10.TextForOverride
+#: /Game/Bogatyr/UI/Widgets/UI_ControlsHelp.UI_ControlsHelp_C:WidgetTree.UI_ActionButton_10.TextForOverride
+msgctxt ",3D274D054421244A14B4908E726BDAF3"
+msgid "FSR2: Включен"
+msgstr "FSR2: Включен"
+
+#. Key:	3D50EB57419D08BB2FAF7D9D73F6E10E
+#. SourceLocation:	/Game/Bogatyr/Materials/MF_ColorCorrect.MF_ColorCorrect:MaterialExpressionVectorParameter_2.ChannelNames.R
+#: /Game/Bogatyr/Materials/MF_ColorCorrect.MF_ColorCorrect:MaterialExpressionVectorParameter_2.ChannelNames.R
+msgctxt ",3D50EB57419D08BB2FAF7D9D73F6E10E"
+msgid "Saturation"
+msgstr "Насыщенность"
+
+#. Key:	41811DAB4075645574FB24834E813619
+#. SourceLocation:	/Game/Bogatyr/UI/Containers/UI_StatusScreen.UI_StatusScreen_C:WidgetTree.LeftHandWeapon2.Name
+#: /Game/Bogatyr/UI/Containers/UI_StatusScreen.UI_StatusScreen_C:WidgetTree.LeftHandWeapon2.Name
+msgctxt ",41811DAB4075645574FB24834E813619"
+msgid "Weapon 2"
+msgstr "Оружие 2"
+
+#. Key:	4283696C4931503C2600849BDD2B31A8
+#. SourceLocation:	/Game/Bogatyr/UI/Widgets/UI_LocalizationTest.UI_LocalizationTest_C:WidgetTree.CommonTextBlock_33.Text
+#: /Game/Bogatyr/UI/Widgets/UI_LocalizationTest.UI_LocalizationTest_C:WidgetTree.CommonTextBlock_33.Text
+msgctxt ",4283696C4931503C2600849BDD2B31A8"
+msgid "--"
+msgstr "--"
+
+#. Key:	4B6876F8406F30B349BDCE8D10425A7C
+#. SourceLocation:	/Game/Bogatyr/UI/Containers/UI_StatusScreen.UI_StatusScreen_C:WidgetTree.CommonTextBlock_3.Text
+#: /Game/Bogatyr/UI/Containers/UI_StatusScreen.UI_StatusScreen_C:WidgetTree.CommonTextBlock_3.Text
+msgctxt ",4B6876F8406F30B349BDCE8D10425A7C"
+msgid "Left Hand"
+msgstr "Левая рука"
+
+#. Key:	4CE4C8D447E3668FF93B21993068E678
+#. SourceLocation:	/Game/Bogatyr/Data/DataTables/DT_ItemsList.DT_ItemsList.IT_C_0001.Description.Name
+#: /Game/Bogatyr/Data/DataTables/DT_ItemsList.DT_ItemsList.IT_C_0001.Description.Name
+msgctxt ",4CE4C8D447E3668FF93B21993068E678"
+msgid "Молодильное яблоко"
+msgstr "Молодильное яблоко"
+
+#. Key:	4E3508564EC1BF19F7118A8DC0A4A632
+#. SourceLocation:	/Game/Bogatyr/UI/Data/UI_InputActions_DT.UI_InputActions_DT.1.DisplayName
+#: /Game/Bogatyr/UI/Data/UI_InputActions_DT.UI_InputActions_DT.1.DisplayName
+msgctxt ",4E3508564EC1BF19F7118A8DC0A4A632"
+msgid "1"
+msgstr "1"
+
+#. Key:	50A7DD5C4C447381B7949D8E0A47C42D
+#. SourceLocation:	/Game/Bogatyr/UI/Containers/UI_StartScreen.UI_StartScreen_C:WidgetTree.NewGameButton.Text
+#: /Game/Bogatyr/UI/Containers/UI_StartScreen.UI_StartScreen_C:WidgetTree.NewGameButton.Text
+msgctxt ",50A7DD5C4C447381B7949D8E0A47C42D"
+msgid "New Game"
+msgstr "Новая игра"
+
+#. Key:	52A7E6F24AE91B0212E23189C28555DA
+#. SourceLocation:	/Game/Bogatyr/UI/Containers/UI_StatusScreen.UI_StatusScreen_C:WidgetTree.Endurance.Name
+#: /Game/Bogatyr/UI/Containers/UI_StatusScreen.UI_StatusScreen_C:WidgetTree.Endurance.Name
+msgctxt ",52A7E6F24AE91B0212E23189C28555DA"
+msgid "Endurance"
+msgstr "Выносливость"
+
+#. Key:	545C853E4A7C224A20B1F3ACFA16647B
+#. SourceLocation:	/Game/Bogatyr/UI/Widgets/UI_ControlsHelp.UI_ControlsHelp_C:WidgetTree.UI_ActionButton_15.TextForOverride
+#: /Game/Bogatyr/UI/Widgets/UI_ControlsHelp.UI_ControlsHelp_C:WidgetTree.UI_ActionButton_15.TextForOverride
+msgctxt ",545C853E4A7C224A20B1F3ACFA16647B"
+msgid "Новая камера"
+msgstr "Новая камера"
+
+#. Key:	555771AF4B145B953540EF9ED4E7F8EA
+#. SourceLocation:	/Game/Bogatyr/UI/Data/UI_InputActions_DT.UI_InputActions_DT.TabLeft.DisplayName
+#: /Game/Bogatyr/UI/Data/UI_InputActions_DT.UI_InputActions_DT.TabLeft.DisplayName
+msgctxt ",555771AF4B145B953540EF9ED4E7F8EA"
+msgid "TabLeft"
+msgstr "TabLeft"
+
+#. Key:	5A5F868947A329C5DEA099BCF805E404
+#. SourceLocation:	/Game/Bogatyr/UI/Containers/UI_StatusScreen.UI_StatusScreen_C:WidgetTree.Poise.Name
+#: /Game/Bogatyr/UI/Containers/UI_StatusScreen.UI_StatusScreen_C:WidgetTree.Poise.Name
+msgctxt ",5A5F868947A329C5DEA099BCF805E404"
+msgid "Poise"
+msgstr "Уравновешенность"
+
+#. Key:	5B6884724EB77D6DB17258A162A8A20A
+#. SourceLocation:	/Game/Bogatyr/Characters/Bolotnyk/BP_Bolotnyk.Default__BP_Bolotnyk_C.BossName
+#: /Game/Bogatyr/Characters/Bolotnyk/BP_Bolotnyk.Default__BP_Bolotnyk_C.BossName
+msgctxt ",5B6884724EB77D6DB17258A162A8A20A"
+msgid "Болотник, Проклятье Леса"
+msgstr "Болотник, Проклятье Леса"
+
+#. Key:	5B6A00F24D5E03DD2077A78E664D116E
+#. SourceLocation:	/Game/Bogatyr/UI/Containers/UI_StatusScreen.UI_StatusScreen_C:WidgetTree.MagicResist.Name
+#: /Game/Bogatyr/UI/Containers/UI_StatusScreen.UI_StatusScreen_C:WidgetTree.MagicResist.Name
+msgctxt ",5B6A00F24D5E03DD2077A78E664D116E"
+msgid "Magic"
+msgstr "Магия"
+
+#. Key:	5B7631A64B85D25A5764199B096DFCAE
+#. SourceLocation:	/Game/Bogatyr/UI/Widgets/UI_ControlsHelp.UI_ControlsHelp_C:WidgetTree.UI_ActionButton_5.TextForOverride
+#: /Game/Bogatyr/UI/Widgets/UI_ControlsHelp.UI_ControlsHelp_C:WidgetTree.UI_ActionButton_5.TextForOverride
+msgctxt ",5B7631A64B85D25A5764199B096DFCAE"
+msgid "Выбор Цели - Tab"
+msgstr "Выбор Цели - Tab"
+
+#. Key:	5D8843154D0FC515342DE89533D285BF
+#. SourceLocation:	/Game/Bogatyr/UI/Containers/UI_StatusScreen.UI_StatusScreen_C:WidgetTree.CharacterName.Text
+#: /Game/Bogatyr/UI/Containers/UI_StatusScreen.UI_StatusScreen_C:WidgetTree.CharacterName.Text
+msgctxt ",5D8843154D0FC515342DE89533D285BF"
+msgid "Ciberus"
+msgstr "Кибер"
+
+#. Key:	60B1A69A4E299FFE9FDD9FB22C539C29
+#. SourceLocation:	/Game/Bogatyr/Art/Blueprints/Interactables/BP_InteractableLeverArm.Default__BP_InteractableLeverArm_C.ActionText
+#: /Game/Bogatyr/Art/Blueprints/Interactables/BP_InteractableLeverArm.Default__BP_InteractableLeverArm_C.ActionText
+msgctxt ",60B1A69A4E299FFE9FDD9FB22C539C29"
+msgid "Pull the lever"
+msgstr "Потяните рычаг"
+
+#. Key:	61D4962E4F76478528D9CEAE1C7114AE
+#. SourceLocation:	/Game/Bogatyr/VFX/Fire/Fire/Materials/M_Distort_01.M_Distort_01:MaterialExpressionVectorParameter_0.ChannelNames.G
+#: /Game/Bogatyr/VFX/Fire/Fire/Materials/M_Distort_01.M_Distort_01:MaterialExpressionVectorParameter_0.ChannelNames.G
+msgctxt ",61D4962E4F76478528D9CEAE1C7114AE"
+msgid "V"
+msgstr "В"
+
+#. Key:	6451271A472BA79FAD42A29E45A764D8
+#. SourceLocation:	/Game/Bogatyr/Art/Blueprints/Interactables/BP_InteractableChest.Default__BP_InteractableChest_C.ActionText
+#: /Game/Bogatyr/Art/Blueprints/Interactables/BP_InteractableChest.Default__BP_InteractableChest_C.ActionText
+msgctxt ",6451271A472BA79FAD42A29E45A764D8"
+msgid "Open chest"
+msgstr "Открытая грудь"
+
+#. Key:	6645423A435E282C991D49AD57535968
+#. SourceLocation:	/Game/Bogatyr/UI/Data/BP_ControllerData_PC_Gamepad.Default__BP_ControllerData_PC_Gamepad_C.GamepadDisplayName
+#: /Game/Bogatyr/UI/Data/BP_ControllerData_PC_Gamepad.Default__BP_ControllerData_PC_Gamepad_C.GamepadDisplayName
+msgctxt ",6645423A435E282C991D49AD57535968"
+msgid "Gamepad"
+msgstr "Геймпад"
+
+#. Key:	6682C9F74DCC146E9DBD5082FF3EF927
+#. SourceLocation:	/Game/Bogatyr/UI/Widgets/UI_ControlsHelp.UI_ControlsHelp_C:ExecuteUbergraph_UI_ControlsHelp [Script Bytecode]
+#: /Game/Bogatyr/UI/Widgets/UI_ControlsHelp.UI_ControlsHelp_C:ExecuteUbergraph_UI_ControlsHelp [Script Bytecode]
+msgctxt ",6682C9F74DCC146E9DBD5082FF3EF927"
+msgid "Скрыть настройки"
+msgstr "Скрыть настройки"
+
+#. Key:	6760723244CAC438136E69A9A6E7418A
+#. SourceLocation:	/Game/Bogatyr/UI/Widgets/UI_ControlsHelp.UI_ControlsHelp_C:WidgetTree.UI_ActionButton_3.TextForOverride
+#: /Game/Bogatyr/UI/Widgets/UI_ControlsHelp.UI_ControlsHelp_C:WidgetTree.UI_ActionButton_3.TextForOverride
+msgctxt ",6760723244CAC438136E69A9A6E7418A"
+msgid "Бег - Space"
+msgstr "Бег - Space"
+
+#. Key:	688B79DF46FECC39B6D4BA9F230A509B
+#. SourceLocation:	/Game/Bogatyr/Data/DataTables/DT_ItemsList.DT_ItemsList.WP_M_0001.Description.Name
+#: /Game/Bogatyr/Data/DataTables/DT_ItemsList.DT_ItemsList.WP_M_0001.Description.Name
+msgctxt ",688B79DF46FECC39B6D4BA9F230A509B"
+msgid "Sword"
+msgstr "Меч"
+
+#. Key:	6A5E67704D0BAA5AEF36BCA1E600829E
+#. SourceLocation:	/Game/Bogatyr/UI/Data/UI_InputActions_DT.UI_InputActions_DT.6.DisplayName
+#: /Game/Bogatyr/UI/Data/UI_InputActions_DT.UI_InputActions_DT.6.DisplayName
+msgctxt ",6A5E67704D0BAA5AEF36BCA1E600829E"
+msgid "6"
+msgstr "6"
+
+#. Key:	6A70A4A647C75DFF2E3E98B660F25111
+#. SourceLocation:	/Game/Bogatyr/UI/Widgets/BossAttributesBars/UI_BossAttributesBarsWidget.UI_BossAttributesBarsWidget_C:WidgetTree.BossNameText.Text
+#: /Game/Bogatyr/UI/Widgets/BossAttributesBars/UI_BossAttributesBarsWidget.UI_BossAttributesBarsWidget_C:WidgetTree.BossNameText.Text
+msgctxt ",6A70A4A647C75DFF2E3E98B660F25111"
+msgid "NO_NAME"
+msgstr "NO_NAME"
+
+#. Key:	6C18813A4C8DD04F00C4CF8867F9C1B4
+#. SourceLocation:	/Game/Bogatyr/UI/Containers/UI_StatusScreen.UI_StatusScreen_C:WidgetTree.Luck.Name
+#: /Game/Bogatyr/UI/Containers/UI_StatusScreen.UI_StatusScreen_C:WidgetTree.Luck.Name
+msgctxt ",6C18813A4C8DD04F00C4CF8867F9C1B4"
+msgid "Luck"
+msgstr "Удача"
+
+#. Key:	6E6CD4A345E2800A6F3C988EE25BCA36
+#. SourceLocation:	/Game/Bogatyr/UI/Widgets/UI_ControlsHelp.UI_ControlsHelp_C:ExecuteUbergraph_UI_ControlsHelp [Script Bytecode]
+#: /Game/Bogatyr/UI/Widgets/UI_ControlsHelp.UI_ControlsHelp_C:ExecuteUbergraph_UI_ControlsHelp [Script Bytecode]
+msgctxt ",6E6CD4A345E2800A6F3C988EE25BCA36"
+msgid "Новая камера"
+msgstr "Новая камера"
+
+#. Key:	6FB537F247986767EFE72E80ED840422
+#. SourceLocation:	/Game/Bogatyr/UI/Widgets/UI_ControlsHelp.UI_ControlsHelp_C:ExecuteUbergraph_UI_ControlsHelp [Script Bytecode]
+#: /Game/Bogatyr/UI/Widgets/UI_ControlsHelp.UI_ControlsHelp_C:ExecuteUbergraph_UI_ControlsHelp [Script Bytecode]
+msgctxt ",6FB537F247986767EFE72E80ED840422"
+msgid "FSR2: Выключен"
+msgstr "FSR2: Выключен"
+
+#. Key:	7186865F4DAC81E8DC13F7AA5B01ED0A
+#. SourceLocation:	/Game/Bogatyr/UI/Containers/UI_StatusScreen.UI_StatusScreen_C:WidgetTree.FireResist.Name
+#: /Game/Bogatyr/UI/Containers/UI_StatusScreen.UI_StatusScreen_C:WidgetTree.FireResist.Name
+msgctxt ",7186865F4DAC81E8DC13F7AA5B01ED0A"
+msgid "Fire"
+msgstr "Огонь"
+
+#. Key:	73DFBAE247AC314FB2447B9FA031E851
+#. SourceLocation:	/Game/Bogatyr/UI/Widgets/UI_ActionButton.Default__UI_ActionButton_C.TextForOverride
+#: /Game/Bogatyr/UI/Widgets/UI_ActionButton.Default__UI_ActionButton_C.TextForOverride
+msgctxt ",73DFBAE247AC314FB2447B9FA031E851"
+msgid "None"
+msgstr "Никто"
+
+#. Key:	74C4F9914FC70EFED3E0E0A557CC7FC9
+#. SourceLocation:	/Game/Bogatyr/UI/Data/UI_InputActions_DT.UI_InputActions_DT.Alt.DisplayName
+#: /Game/Bogatyr/UI/Data/UI_InputActions_DT.UI_InputActions_DT.Alt.DisplayName
+msgctxt ",74C4F9914FC70EFED3E0E0A557CC7FC9"
+msgid "Alt"
+msgstr "Альт"
+
+#. Key:	77B3E3A94E071D15959DAC96139950B0
+#. SourceLocation:	/Game/Bogatyr/UI/Widgets/ItemSlot/UI_ItemSlot.UI_ItemSlot_C:WidgetTree.ItemNameText.Text
+#: /Game/Bogatyr/UI/Widgets/ItemSlot/UI_ItemSlot.UI_ItemSlot_C:WidgetTree.ItemNameText.Text
+msgctxt ",77B3E3A94E071D15959DAC96139950B0"
+msgid "Right Hand 1"
+msgstr "Правая рука 1"
+
+#. Key:	7C3CC90B40E8AEE6CD15E193E1D9E4A2
+#. SourceLocation:	/Game/Bogatyr/UI/Widgets/UI_ControlsHelp.UI_ControlsHelp_C:WidgetTree.UI_ActionButton_13.TextForOverride
+#: /Game/Bogatyr/UI/Widgets/UI_ControlsHelp.UI_ControlsHelp_C:WidgetTree.UI_ActionButton_13.TextForOverride
+msgctxt ",7C3CC90B40E8AEE6CD15E193E1D9E4A2"
+msgid "Смена оружия в правой руке"
+msgstr "Смена оружия в правой руке"
+
+#. Key:	7D5F215D481BBC353FEA2089868B7F24
+#. SourceLocation:	/Game/Bogatyr/Utils/DamageBox/BP_DamageBox.Default__BP_DamageBox_C.Title
+#: /Game/Bogatyr/Utils/DamageBox/BP_DamageBox.Default__BP_DamageBox_C.Title
+msgctxt ",7D5F215D481BBC353FEA2089868B7F24"
+msgid "fadf"
+msgstr "фадф"
+
+#. Key:	7DD960F642114D68520923BD998083FC
+#. SourceLocation:	/Game/Bogatyr/UI/Containers/UI_StatusScreen.UI_StatusScreen_C:WidgetTree.Dexterity.Name
+#: /Game/Bogatyr/UI/Containers/UI_StatusScreen.UI_StatusScreen_C:WidgetTree.Dexterity.Name
+msgctxt ",7DD960F642114D68520923BD998083FC"
+msgid "Dexterity"
+msgstr "Ловкость"
+
+#. Key:	7F0F47A04A690218BFAF34861F3CC1F3
+#. SourceLocation:	/Game/Bogatyr/Data/DataTables/DT_ItemsList.DT_ItemsList.IT_C_0002.Description.Name
+#: /Game/Bogatyr/Data/DataTables/DT_ItemsList.DT_ItemsList.IT_C_0002.Description.Name
+msgctxt ",7F0F47A04A690218BFAF34861F3CC1F3"
+msgid "Душа - уровень 1"
+msgstr "Душа - уровень 1"
+
+#. Key:	7FBCA9B44352501987D7BD974EBD3346
+#. SourceLocation:	/Game/Bogatyr/UI/Data/UI_InputActions_DT.UI_InputActions_DT.R.DisplayName
+#: /Game/Bogatyr/UI/Data/UI_InputActions_DT.UI_InputActions_DT.R.DisplayName
+msgctxt ",7FBCA9B44352501987D7BD974EBD3346"
+msgid "R"
+msgstr "Р"
+
+#. Key:	851240B54CF3631C2D8A249F646AD98B
+#. SourceLocation:	/Game/Bogatyr/UI/Containers/UI_StatusScreen.UI_StatusScreen_C:WidgetTree.BodyType.Name
+#: /Game/Bogatyr/UI/Containers/UI_StatusScreen.UI_StatusScreen_C:WidgetTree.BodyType.Name
+msgctxt ",851240B54CF3631C2D8A249F646AD98B"
+msgid "Body Type"
+msgstr "Тип телосложения"
+
+#. Key:	86E78F4E415E7F635E2680B22359FEFE
+#. SourceLocation:	/Game/Bogatyr/Maps/L_StartProjectMap.L_StartProjectMap:PersistentLevel.TextRenderActor_0.NewTextRenderComponent.Text
+#: /Game/Bogatyr/Maps/L_StartProjectMap.L_StartProjectMap:PersistentLevel.TextRenderActor_0.NewTextRenderComponent.Text
+msgctxt ",86E78F4E415E7F635E2680B22359FEFE"
+msgid "Godreaper(bogatyr)"
+msgstr "Богожнец(богатырь)"
+
+#. Key:	8718DCDB40ABFFC7B0B33A8CF7518B9D
+#. SourceLocation:	/Game/Bogatyr/UI/Widgets/UI_StartScreen_Button.UI_StartScreen_Button_C:WidgetTree.ButtonText.Text
+#: /Game/Bogatyr/UI/Widgets/UI_StartScreen_Button.UI_StartScreen_Button_C:WidgetTree.ButtonText.Text
+msgctxt ",8718DCDB40ABFFC7B0B33A8CF7518B9D"
+msgid "Test"
+msgstr "Тест"
+
+#. Key:	885BF5914C797738F05858813F9CC940
+#. SourceLocation:	/Game/Bogatyr/Placeables/Pickupables/BP_PickupableActor_Armor.Default__BP_PickupableActor_Armor_C.ActionText
+#: /Game/Bogatyr/Placeables/Pickupables/BP_PickupableActor_Armor.Default__BP_PickupableActor_Armor_C.ActionText
+msgctxt ",885BF5914C797738F05858813F9CC940"
+msgid "Pickup"
+msgstr "Подобрать"
+
+#. Key:	8AF8CFF543FD571A509E159AFF1215E2
+#. SourceLocation:	/Game/Bogatyr/UI/Containers/UI_StatusScreen.UI_StatusScreen_C:WidgetTree.Faith.Name
+#: /Game/Bogatyr/UI/Containers/UI_StatusScreen.UI_StatusScreen_C:WidgetTree.Faith.Name
+msgctxt ",8AF8CFF543FD571A509E159AFF1215E2"
+msgid "Faith"
+msgstr "Вера"
+
+#. Key:	8E6CDF544A53D6AB8212F1940908FAC2
+#. SourceLocation:	/Game/Bogatyr/UI/Containers/UI_StartScreen.UI_StartScreen_C:WidgetTree.ProjectVersionText.Text
+#: /Game/Bogatyr/UI/Containers/UI_StartScreen.UI_StartScreen_C:WidgetTree.ProjectVersionText.Text
+msgctxt ",8E6CDF544A53D6AB8212F1940908FAC2"
+msgid "v0.0.0.322"
+msgstr "v0.0.0.322"
+
+#. Key:	8E7C9B7F4B7540FDAA282288D93FC2BA
+#. SourceLocation:	/Game/Bogatyr/UI/Containers/UI_StatusScreen.UI_StatusScreen_C:WidgetTree.RightHandWeapon2.Name
+#: /Game/Bogatyr/UI/Containers/UI_StatusScreen.UI_StatusScreen_C:WidgetTree.RightHandWeapon2.Name
+msgctxt ",8E7C9B7F4B7540FDAA282288D93FC2BA"
+msgid "Weapon 2"
+msgstr "Оружие 2"
+
+#. Key:	933E98AE4603DAFEF4EB339E53A91DA8
+#. SourceLocation:	/Game/Bogatyr/UI/Containers/UI_StatusScreen.UI_StatusScreen_C:WidgetTree.LeftHandWeapon3.Name
+#: /Game/Bogatyr/UI/Containers/UI_StatusScreen.UI_StatusScreen_C:WidgetTree.LeftHandWeapon3.Name
+msgctxt ",933E98AE4603DAFEF4EB339E53A91DA8"
+msgid "Weapon 3"
+msgstr "Оружие 3"
+
+#. Key:	9470D3CF4EA610984C79D7BDEA41E92E
+#. SourceLocation:	/Game/Bogatyr/Materials/MF_ColorCorrect.MF_ColorCorrect:MaterialExpressionVectorParameter_2.ChannelNames.G
+#: /Game/Bogatyr/Materials/MF_ColorCorrect.MF_ColorCorrect:MaterialExpressionVectorParameter_2.ChannelNames.G
+msgctxt ",9470D3CF4EA610984C79D7BDEA41E92E"
+msgid "Brightness"
+msgstr "Яркость"
+
+#. Key:	9597854A4F5AE1343D280FB4A3C5C261
+#. SourceLocation:	/Game/Bogatyr/Placeables/Pickupables/BP_PickupableActor_Default.Default__BP_PickupableActor_Default_C.ActionText
+#: /Game/Bogatyr/Placeables/Pickupables/BP_PickupableActor_Default.Default__BP_PickupableActor_Default_C.ActionText
+msgctxt ",9597854A4F5AE1343D280FB4A3C5C261"
+msgid "Pickup"
+msgstr "Подобрать"
+
+#. Key:	95FA5A9B45BE65413AFE47A5D25A22F4
+#. SourceLocation:	/Game/Bogatyr/Data/DataTables/DT_ItemsList.DT_ItemsList.WP_M_0002.Description.Name
+#: /Game/Bogatyr/Data/DataTables/DT_ItemsList.DT_ItemsList.WP_M_0002.Description.Name
+msgctxt ",95FA5A9B45BE65413AFE47A5D25A22F4"
+msgid "Axe"
+msgstr "Топор"
+
+#. Key:	975B9D3B4081AB0BEFEA8098F3FA9919
+#. SourceLocation:	/Game/Bogatyr/UI/Data/BP_ControllerData_PC_Gamepad.Default__BP_ControllerData_PC_Gamepad_C.GamepadPlatformName
+#: /Game/Bogatyr/UI/Data/BP_ControllerData_PC_Gamepad.Default__BP_ControllerData_PC_Gamepad_C.GamepadPlatformName
+msgctxt ",975B9D3B4081AB0BEFEA8098F3FA9919"
+msgid "Windows"
+msgstr "Окна"
+
+#. Key:	996092BF41F295FB31BE83B6829840DD
+#. SourceLocation:	/Game/Bogatyr/UI/Containers/UI_StatusScreen.UI_StatusScreen_C:WidgetTree.CommonTextBlock_133.Text
+#: /Game/Bogatyr/UI/Containers/UI_StatusScreen.UI_StatusScreen_C:WidgetTree.CommonTextBlock_133.Text
+msgctxt ",996092BF41F295FB31BE83B6829840DD"
+msgid "Attributes"
+msgstr "Атрибуты"
+
+#. Key:	9AB9DD3746DEAE29A1CADC8B238C52BC
+#. SourceLocation:	/Game/Bogatyr/UI/Widgets/UI_ControlsHelp.UI_ControlsHelp_C:WidgetTree.UI_ActionButton_2.TextForOverride
+#: /Game/Bogatyr/UI/Widgets/UI_ControlsHelp.UI_ControlsHelp_C:WidgetTree.UI_ActionButton_2.TextForOverride
+msgctxt ",9AB9DD3746DEAE29A1CADC8B238C52BC"
+msgid "Смена стойки - G"
+msgstr "Смена стойки - G"
+
+#. Key:	9F27E76844C50E4A4FD19AAB7D5AA176
+#. SourceLocation:	/Game/Bogatyr/UI/Containers/Inventory/UI_InventoryScreen.UI_InventoryScreen_C:WidgetTree.CommonTextBlock_26.Text
+#: /Game/Bogatyr/UI/Containers/Inventory/UI_InventoryScreen.UI_InventoryScreen_C:WidgetTree.CommonTextBlock_26.Text
+msgctxt ",9F27E76844C50E4A4FD19AAB7D5AA176"
+msgid "InventoryScreen"
+msgstr "InventoryScreen"
+
+#. Key:	A0650DA34280CE75EF6BC29566C172EC
+#. SourceLocation:	/Game/Bogatyr/Data/Enums/E_AI_Status.E_AI_Status.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/Bogatyr/Data/Enums/E_AI_Status.E_AI_Status.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",A0650DA34280CE75EF6BC29566C172EC"
+msgid "None"
+msgstr "Никто"
+
+#. Key:	A07583474EE2A26D517AF3AB63D7CE51
+#. SourceLocation:	/Game/Bogatyr/UI/Widgets/UI_CharacterStat.UI_CharacterStat_C:WidgetTree.NameText.Text
+#: /Game/Bogatyr/UI/Widgets/UI_CharacterStat.UI_CharacterStat_C:WidgetTree.NameText.Text
+msgctxt ",A07583474EE2A26D517AF3AB63D7CE51"
+msgid "Attribute name"
+msgstr "Имя атрибута"
+
+#. Key:	A94BEDF64430F0CF2580A9B43C5DFA08
+#. SourceLocation:	/Game/Bogatyr/UI/Data/UI_InputActions_DT.UI_InputActions_DT.RightArrow.DisplayName
+#: /Game/Bogatyr/UI/Data/UI_InputActions_DT.UI_InputActions_DT.RightArrow.DisplayName
+msgctxt ",A94BEDF64430F0CF2580A9B43C5DFA08"
+msgid "RightArrow"
+msgstr "Стрелка вправо"
+
+#. Key:	AA1BEBB74731DB5312B73384D6C5DD96
+#. SourceLocation:	/Game/Bogatyr/Data/Enums/E_AI_Status.E_AI_Status.DisplayNameMap(5 - Value).DisplayNameMap
+#: /Game/Bogatyr/Data/Enums/E_AI_Status.E_AI_Status.DisplayNameMap(5 - Value).DisplayNameMap
+msgctxt ",AA1BEBB74731DB5312B73384D6C5DD96"
+msgid "Stun"
+msgstr "Оглушение"
+
+#. Key:	ABDDCC98432D8634289795AF171BB76A
+#. SourceLocation:	/Game/Bogatyr/UI/Containers/UI_StatusScreen.UI_StatusScreen_C:WidgetTree.CommonTextBlock_1.Text
+#: /Game/Bogatyr/UI/Containers/UI_StatusScreen.UI_StatusScreen_C:WidgetTree.CommonTextBlock_1.Text
+msgctxt ",ABDDCC98432D8634289795AF171BB76A"
+msgid "Attack Power"
+msgstr "Сила атаки"
+
+#. Key:	AC74DE96434596DBBEB14B9CC6B43819
+#. SourceLocation:	/Game/Bogatyr/Materials/MF_ColorCorrect.MF_ColorCorrect:MaterialExpressionVectorParameter_2.ChannelNames.A
+#: /Game/Bogatyr/Materials/MF_ColorCorrect.MF_ColorCorrect:MaterialExpressionVectorParameter_2.ChannelNames.A
+msgctxt ",AC74DE96434596DBBEB14B9CC6B43819"
+msgid "N/A"
+msgstr "Н/Д"
+
+#. Key:	AF46B12F40EE3647DE570885ABC4B6C1
+#. SourceLocation:	/Game/Bogatyr/UI/Containers/UI_StatusScreen.UI_StatusScreen_C:WidgetTree.Vitality.Name
+#: /Game/Bogatyr/UI/Containers/UI_StatusScreen.UI_StatusScreen_C:WidgetTree.Vitality.Name
+msgctxt ",AF46B12F40EE3647DE570885ABC4B6C1"
+msgid "Vitality"
+msgstr "Жизненная сила"
+
+#. Key:	B121924B403CBC3A139B2DAC60CBC344
+#. SourceLocation:	/Game/Bogatyr/UI/Widgets/UI_ControlsHelp.UI_ControlsHelp_C:WidgetTree.UI_ActionButton_4.TextForOverride
+#: /Game/Bogatyr/UI/Widgets/UI_ControlsHelp.UI_ControlsHelp_C:WidgetTree.UI_ActionButton_4.TextForOverride
+msgctxt ",B121924B403CBC3A139B2DAC60CBC344"
+msgid "Кувырок - Space / LCtrl"
+msgstr "Кувырок — Пробел / LCtrl"
+
+#. Key:	B45785FE456E5E0FCB385DB8E38ABF06
+#. SourceLocation:	/Game/Bogatyr/UI/Data/UI_InputActions_DT.UI_InputActions_DT.Escape.DisplayName
+#: /Game/Bogatyr/UI/Data/UI_InputActions_DT.UI_InputActions_DT.Escape.DisplayName
+msgctxt ",B45785FE456E5E0FCB385DB8E38ABF06"
+msgid "Escape"
+msgstr "Побег"
+
+#. Key:	B8BAD78A490B237997ACCE962E999D79
+#. SourceLocation:	/Game/Bogatyr/UI/Widgets/UI_SoulsCounter.UI_SoulsCounter_C:WidgetTree.CommonTextBlock_214.Text
+#: /Game/Bogatyr/UI/Widgets/UI_SoulsCounter.UI_SoulsCounter_C:WidgetTree.CommonTextBlock_214.Text
+msgctxt ",B8BAD78A490B237997ACCE962E999D79"
+msgid "+"
+msgstr "+"
+
+#. Key:	BB0768844931D2AE1C226FB764DF200C
+#. SourceLocation:	/Game/Bogatyr/UI/Widgets/UI_ControlsHelp.UI_ControlsHelp_C:WidgetTree.UI_ActionButton_1.TextForOverride
+#: /Game/Bogatyr/UI/Widgets/UI_ControlsHelp.UI_ControlsHelp_C:WidgetTree.UI_ActionButton_1.TextForOverride
+msgctxt ",BB0768844931D2AE1C226FB764DF200C"
+msgid "Прыжок - F"
+msgstr "Прыжок - F"
+
+#. Key:	BB1C03C243AE3C436A06CD907717C825
+#. SourceLocation:	/Game/Bogatyr/Data/Enums/E_AI_Status.E_AI_Status.DisplayNameMap(4 - Value).DisplayNameMap
+#: /Game/Bogatyr/Data/Enums/E_AI_Status.E_AI_Status.DisplayNameMap(4 - Value).DisplayNameMap
+msgctxt ",BB1C03C243AE3C436A06CD907717C825"
+msgid "Unic"
+msgstr "Уник"
+
+#. Key:	BC0C20294DD471BBB8F49087E1E8C301
+#. SourceLocation:	/Game/Bogatyr/UI/Containers/UI_StartScreen.UI_StartScreen_C:WidgetTree.CommonTextBlock_209.Text
+#: /Game/Bogatyr/UI/Containers/UI_StartScreen.UI_StartScreen_C:WidgetTree.CommonTextBlock_209.Text
+msgctxt ",BC0C20294DD471BBB8F49087E1E8C301"
+msgid "GODREAPER"
+msgstr "БОГ ЖНЕЦ"
+
+#. Key:	BC228E294621996868FB7196A0A2BDD6
+#. SourceLocation:	/Game/Bogatyr/Data/DataTables/DT_ItemsList.DT_ItemsList.IT_C_0002.Description.Description
+#: /Game/Bogatyr/Data/DataTables/DT_ItemsList.DT_ItemsList.IT_C_0002.Description.Description
+msgctxt ",BC228E294621996868FB7196A0A2BDD6"
+msgid "Дает 100 душ"
+msgstr "Дает 100 душ"
+
+#. Key:	BF541A1B4B77DE66A10BB6A6BC7DD190
+#. SourceLocation:	/Game/Bogatyr/UI/Widgets/UI_ControlsHelp.UI_ControlsHelp_C:WidgetTree.UI_ActionButton_11.TextForOverride
+#: /Game/Bogatyr/UI/Widgets/UI_ControlsHelp.UI_ControlsHelp_C:WidgetTree.UI_ActionButton_11.TextForOverride
+msgctxt ",BF541A1B4B77DE66A10BB6A6BC7DD190"
+msgid "FSR2 QualityMode: Balance"
+msgstr "FSR2 QualityMode: Баланс"
+
+#. Key:	BFE007CD4E2073C49FB67AA3578F873B
+#. SourceLocation:	/Game/Bogatyr/Data/Enums/E_AI_Branch.E_AI_Branch.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/Bogatyr/Data/Enums/E_AI_Branch.E_AI_Branch.DisplayNameMap(2 - Value).DisplayNameMap
+msgctxt ",BFE007CD4E2073C49FB67AA3578F873B"
+msgid "Red"
+msgstr "Красный"
+
+#. Key:	C2A8B6CB486794469988799F50CF6793
+#. SourceLocation:	/Game/Bogatyr/UI/Widgets/UI_ControlsHelp.UI_ControlsHelp_C:ExecuteUbergraph_UI_ControlsHelp [Script Bytecode]
+#: /Game/Bogatyr/UI/Widgets/UI_ControlsHelp.UI_ControlsHelp_C:ExecuteUbergraph_UI_ControlsHelp [Script Bytecode]
+msgctxt ",C2A8B6CB486794469988799F50CF6793"
+msgid "FSR2: Включен"
+msgstr "FSR2: Включен"
+
+#. Key:	C4BA0AD94A23A07A75AB0480969ACEAC
+#. SourceLocation:	/Game/Bogatyr/UI/Containers/UI_StatusScreen.UI_StatusScreen_C:WidgetTree.PhysResist.Name
+#: /Game/Bogatyr/UI/Containers/UI_StatusScreen.UI_StatusScreen_C:WidgetTree.PhysResist.Name
+msgctxt ",C4BA0AD94A23A07A75AB0480969ACEAC"
+msgid "Physic"
+msgstr "Физика"
+
+#. Key:	C685817F488B4D2FA7D5AFAC0701AD00
+#. SourceLocation:	/Game/Bogatyr/UI/Widgets/InteractionSystemWidgets/WBP_InteractiveWidget.WBP_InteractiveWidget_C:WidgetTree.ActionText.Text
+#: /Game/Bogatyr/UI/Widgets/InteractionSystemWidgets/WBP_InteractiveWidget.WBP_InteractiveWidget_C:WidgetTree.ActionText.Text
+msgctxt ",C685817F488B4D2FA7D5AFAC0701AD00"
+msgid "Поднять предмет"
+msgstr "Поднять предмет"
+
+#. Key:	C8CE348A4FF7CAE1270F81A4C50CB5B6
+#. SourceLocation:	/Game/Bogatyr/UI/Containers/UI_StatusScreen.UI_StatusScreen_C:WidgetTree.CommonTextBlock_4.Text
+#: /Game/Bogatyr/UI/Containers/UI_StatusScreen.UI_StatusScreen_C:WidgetTree.CommonTextBlock_4.Text
+msgctxt ",C8CE348A4FF7CAE1270F81A4C50CB5B6"
+msgid "Defence / Damage Negation"
+msgstr "Защита / Отрицание урона"
+
+#. Key:	C8D2CADE4D391321B269D8BBA2FA1D04
+#. SourceLocation:	/Game/Bogatyr/UI/Widgets/UI_ControlsHelp.UI_ControlsHelp_C:ExecuteUbergraph_UI_ControlsHelp [Script Bytecode]
+#: /Game/Bogatyr/UI/Widgets/UI_ControlsHelp.UI_ControlsHelp_C:ExecuteUbergraph_UI_ControlsHelp [Script Bytecode]
+msgctxt ",C8D2CADE4D391321B269D8BBA2FA1D04"
+msgid "Показать управление"
+msgstr "Показать управление"
+
+#. Key:	CCC846194ECB3350337004A48782FAE3
+#. SourceLocation:	/Game/Bogatyr/UI/Containers/UI_StatusScreen.UI_StatusScreen_C:WidgetTree.RightHandWeapon3.Name
+#: /Game/Bogatyr/UI/Containers/UI_StatusScreen.UI_StatusScreen_C:WidgetTree.RightHandWeapon3.Name
+msgctxt ",CCC846194ECB3350337004A48782FAE3"
+msgid "Weapon 3"
+msgstr "Оружие 3"
+
+#. Key:	CE6B5460422F1010B8ABE5B9D3110F52
+#. SourceLocation:	/Game/Bogatyr/UI/Containers/UI_StatusScreen.UI_StatusScreen_C:WidgetTree.ItemDiscovery.Name
+#: /Game/Bogatyr/UI/Containers/UI_StatusScreen.UI_StatusScreen_C:WidgetTree.ItemDiscovery.Name
+msgctxt ",CE6B5460422F1010B8ABE5B9D3110F52"
+msgid "Item Discovery"
+msgstr "Обнаружение предметов"
+
+#. Key:	CE7FC24647051631B3EA7AA3C9673632
+#. SourceLocation:	/Game/Bogatyr/UI/Containers/UI_StatusScreen.UI_StatusScreen_C:WidgetTree.Souls.Name
+#: /Game/Bogatyr/UI/Containers/UI_StatusScreen.UI_StatusScreen_C:WidgetTree.Souls.Name
+msgctxt ",CE7FC24647051631B3EA7AA3C9673632"
+msgid "Souls"
+msgstr "Души"
+
+#. Key:	D0B3A415457ECB849E94C9BF0BF32E2B
+#. SourceLocation:	/Game/Bogatyr/UI/Containers/UI_StatusScreen.UI_StatusScreen_C:WidgetTree.EquipLoadText.Text
+#: /Game/Bogatyr/UI/Containers/UI_StatusScreen.UI_StatusScreen_C:WidgetTree.EquipLoadText.Text
+msgctxt ",D0B3A415457ECB849E94C9BF0BF32E2B"
+msgid "Medium Load"
+msgstr "Средняя нагрузка"
+
+#. Key:	D22B848446F593FE7408E4B0776C9067
+#. SourceLocation:	/Game/Bogatyr/UI/Containers/UI_StatusScreen.UI_StatusScreen_C:WidgetTree.FP.Name
+#: /Game/Bogatyr/UI/Containers/UI_StatusScreen.UI_StatusScreen_C:WidgetTree.FP.Name
+msgctxt ",D22B848446F593FE7408E4B0776C9067"
+msgid "FP"
+msgstr "ФП"
+
+#. Key:	D80E79574F88FF3FF97A87B54918639C
+#. SourceLocation:	/Game/Bogatyr/Data/DataTables/DT_ItemsList.DT_ItemsList.WP_S_1000.Description.Name
+#: /Game/Bogatyr/Data/DataTables/DT_ItemsList.DT_ItemsList.WP_S_1000.Description.Name
+msgctxt ",D80E79574F88FF3FF97A87B54918639C"
+msgid "Shield"
+msgstr "Щит"
+
+#. Key:	D973CB634567D9EC29EFE1911120C8D6
+#. SourceLocation:	/Game/Bogatyr/VFX/Fire/Fire/Materials/M_Distort_01.M_Distort_01:MaterialExpressionVectorParameter_0.ChannelNames.A
+#: /Game/Bogatyr/VFX/Fire/Fire/Materials/M_Distort_01.M_Distort_01:MaterialExpressionVectorParameter_0.ChannelNames.A
+msgctxt ",D973CB634567D9EC29EFE1911120C8D6"
+msgid "SpeedY"
+msgstr "SpeedY"
+
+#. Key:	DC05734640CE8E85644E2A9057717540
+#. SourceLocation:	/Game/Bogatyr/VFX/Fire/Fire/Materials/M_Distort_01.M_Distort_01:MaterialExpressionVectorParameter_0.ChannelNames.B
+#: /Game/Bogatyr/VFX/Fire/Fire/Materials/M_Distort_01.M_Distort_01:MaterialExpressionVectorParameter_0.ChannelNames.B
+msgctxt ",DC05734640CE8E85644E2A9057717540"
+msgid "SpeedX"
+msgstr "SpeedX"
+
+#. Key:	DE26C4D7460B74A44E187A9BA3B9815E
+#. SourceLocation:	/Game/Bogatyr/Data/Enums/E_AI_Branch.E_AI_Branch.DisplayNameMap(3 - Value).DisplayNameMap
+#: /Game/Bogatyr/Data/Enums/E_AI_Branch.E_AI_Branch.DisplayNameMap(3 - Value).DisplayNameMap
+msgctxt ",DE26C4D7460B74A44E187A9BA3B9815E"
+msgid "Unic"
+msgstr "Уник"
+
+#. Key:	DE34B839442E6F9172FB819998BFDE66
+#. SourceLocation:	/Game/Bogatyr/UI/Widgets/UI_ControlsHelp.UI_ControlsHelp_C:WidgetTree.ShowControlsButtons.TextForOverride
+#: /Game/Bogatyr/UI/Widgets/UI_ControlsHelp.UI_ControlsHelp_C:WidgetTree.ShowControlsButtons.TextForOverride
+msgctxt ",DE34B839442E6F9172FB819998BFDE66"
+msgid "Show Controls"
+msgstr "Показать элементы управления"
+
+#. Key:	E057186745B601708FAF72836D08EF96
+#. SourceLocation:	/Game/Bogatyr/UI/Widgets/UI_ControlsHelp.UI_ControlsHelp_C:WidgetTree.UI_ActionButton_6.TextForOverride
+#: /Game/Bogatyr/UI/Widgets/UI_ControlsHelp.UI_ControlsHelp_C:WidgetTree.UI_ActionButton_6.TextForOverride
+msgctxt ",E057186745B601708FAF72836D08EF96"
+msgid "Рестарт - Escape"
+msgstr "Рестарт - Escape"
+
+#. Key:	E09AA58E4535C30300989BB1EC005BEC
+#. SourceLocation:	/Game/Bogatyr/UI/Widgets/UI_ControlsHelp.UI_ControlsHelp_C:WidgetTree.UI_ActionButton.TextForOverride
+#: /Game/Bogatyr/UI/Widgets/UI_ControlsHelp.UI_ControlsHelp_C:WidgetTree.UI_ActionButton.TextForOverride
+msgctxt ",E09AA58E4535C30300989BB1EC005BEC"
+msgid "Лёгкий Удар - ЛКМ"
+msgstr "Лёгкий Удар - ЛКМ"
+
+#. Key:	E37A4239412ACD7948E1DCBDC7FE537B
+#. SourceLocation:	/Game/Bogatyr/Data/Enums/E_AI_Branch.E_AI_Branch.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/Bogatyr/Data/Enums/E_AI_Branch.E_AI_Branch.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",E37A4239412ACD7948E1DCBDC7FE537B"
+msgid "Orange"
+msgstr "Апельсин"
+
+#. Key:	E4BECC7F4EE13C88AC4586AC9F48BE8F
+#. SourceLocation:	/Game/Bogatyr/UI/Data/UI_InputActions_DT.UI_InputActions_DT.T.DisplayName
+#: /Game/Bogatyr/UI/Data/UI_InputActions_DT.UI_InputActions_DT.T.DisplayName
+msgctxt ",E4BECC7F4EE13C88AC4586AC9F48BE8F"
+msgid "T"
+msgstr "Т"
+
+#. Key:	E51C07F84F62520DC4AFB68DD3056A65
+#. SourceLocation:	/Game/Bogatyr/Data/Enums/E_AI_Status.E_AI_Status.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/Bogatyr/Data/Enums/E_AI_Status.E_AI_Status.DisplayNameMap(2 - Value).DisplayNameMap
+msgctxt ",E51C07F84F62520DC4AFB68DD3056A65"
+msgid "Invistigate"
+msgstr "Расследовать"
+
+#. Key:	E720BB3C473F68371C36B994A6572823
+#. SourceLocation:	/Game/Bogatyr/Art/Blueprints/Debug/BP_CubeWithPhysMaterial.Default__BP_CubeWithPhysMaterial_C.Text
+#: /Game/Bogatyr/Art/Blueprints/Debug/BP_CubeWithPhysMaterial.Default__BP_CubeWithPhysMaterial_C.Text
+msgctxt ",E720BB3C473F68371C36B994A6572823"
+msgid "Grass"
+msgstr "Трава"
+
+#. Key:	E7561E2C4F6BDF3A92B051A57D59BD9A
+#. SourceLocation:	/Game/Bogatyr/UI/Widgets/UI_ControlsHelp.UI_ControlsHelp_C:ExecuteUbergraph_UI_ControlsHelp [Script Bytecode]
+#: /Game/Bogatyr/UI/Widgets/UI_ControlsHelp.UI_ControlsHelp_C:ExecuteUbergraph_UI_ControlsHelp [Script Bytecode]
+msgctxt ",E7561E2C4F6BDF3A92B051A57D59BD9A"
+msgid "Старая камера"
+msgstr "Старая камера"
+
+#. Key:	E9E8D28A4077FAAA8E4F36AFDE287A36
+#. SourceLocation:	/Game/Bogatyr/UI/Widgets/UI_ControlsHelp.UI_ControlsHelp_C:WidgetTree.UI_ActionButton_8.TextForOverride
+#: /Game/Bogatyr/UI/Widgets/UI_ControlsHelp.UI_ControlsHelp_C:WidgetTree.UI_ActionButton_8.TextForOverride
+msgctxt ",E9E8D28A4077FAAA8E4F36AFDE287A36"
+msgid "Поднять щит - ПКМ"
+msgstr "Поднять щит - ПКМ"
+
+#. Key:	ED12D90140C630247B92739EBEBF49EA
+#. SourceLocation:	/Game/Bogatyr/UI/Containers/UI_StartScreen.UI_StartScreen_C:WidgetTree.SettingsButton.Text
+#: /Game/Bogatyr/UI/Containers/UI_StartScreen.UI_StartScreen_C:WidgetTree.SettingsButton.Text
+msgctxt ",ED12D90140C630247B92739EBEBF49EA"
+msgid "Settings"
+msgstr "Настройки"
+
+#. Key:	EFF822A541EF3A916AD4B5AC5B071722
+#. SourceLocation:	/Game/Bogatyr/Placeables/Pickupables/BP_PickupableActor_Weapon.Default__BP_PickupableActor_Weapon_C.ActionText
+#: /Game/Bogatyr/Placeables/Pickupables/BP_PickupableActor_Weapon.Default__BP_PickupableActor_Weapon_C.ActionText
+msgctxt ",EFF822A541EF3A916AD4B5AC5B071722"
+msgid "Pickup"
+msgstr "Подобрать"
+
+#. Key:	F3D08D834161EF3F9DA7A1AA569CBF2B
+#. SourceLocation:	/Game/Bogatyr/UI/Containers/UI_StatusScreen.UI_StatusScreen_C:WidgetTree.EquipLoad.Name
+#: /Game/Bogatyr/UI/Containers/UI_StatusScreen.UI_StatusScreen_C:WidgetTree.EquipLoad.Name
+msgctxt ",F3D08D834161EF3F9DA7A1AA569CBF2B"
+msgid "Equip Load"
+msgstr "Загрузка оборудования"
+
+#. Key:	F7F13A6D4A650DDD9B828894193D43DA
+#. SourceLocation:	/Game/Bogatyr/UI/Containers/UI_StatusScreen.UI_StatusScreen_C:WidgetTree.CommonTextBlock.Text
+#: /Game/Bogatyr/UI/Containers/UI_StatusScreen.UI_StatusScreen_C:WidgetTree.CommonTextBlock.Text
+msgctxt ",F7F13A6D4A650DDD9B828894193D43DA"
+msgid "Base Stats"
+msgstr "Базовая статистика"
+
+#. Key:	F87B48A6402B52CD41C08086AC612C2B
+#. SourceLocation:	/Game/Bogatyr/UI/Containers/UI_StatusScreen.UI_StatusScreen_C:WidgetTree.Stamina.Name
+#: /Game/Bogatyr/UI/Containers/UI_StatusScreen.UI_StatusScreen_C:WidgetTree.Stamina.Name
+msgctxt ",F87B48A6402B52CD41C08086AC612C2B"
+msgid "Stamina"
+msgstr "Выносливость"
+
+#. Key:	F92ABB124289BF8B5FC222B62E2F4C32
+#. SourceLocation:	/Game/Bogatyr/UI/Containers/UI_StatusScreen.UI_StatusScreen_C:WidgetTree.SoulsRequired.Name
+#: /Game/Bogatyr/UI/Containers/UI_StatusScreen.UI_StatusScreen_C:WidgetTree.SoulsRequired.Name
+msgctxt ",F92ABB124289BF8B5FC222B62E2F4C32"
+msgid "Souls Needed"
+msgstr "Нужны Души"
+
+#. Key:	FA3FF87141D31844341E3FBD77714F41
+#. SourceLocation:	/Game/Bogatyr/UI/Widgets/UI_ControlsHelp.UI_ControlsHelp_C:WidgetTree.UI_ActionButton_14.TextForOverride
+#: /Game/Bogatyr/UI/Widgets/UI_ControlsHelp.UI_ControlsHelp_C:WidgetTree.UI_ActionButton_14.TextForOverride
+msgctxt ",FA3FF87141D31844341E3FBD77714F41"
+msgid "Смена оружия в левой руке"
+msgstr "Смена оружия в левой руке"
+
